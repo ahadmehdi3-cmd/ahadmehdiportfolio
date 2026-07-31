@@ -53,7 +53,7 @@ I'm largely self-taught: I picked up the fundamentals of Python and SQL through 
 
 ## Resume
 
-My full resume is available as a PDF: **Ahad_Mehdi_Resume.pdf** (add your hosted link here when you publish your portfolio).
+My full resume is available as a PDF: [**Ahad_Mehdi_Resume.pdf**](url).
 
 ## Careers I'm Considering
 
