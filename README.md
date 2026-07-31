@@ -6,6 +6,7 @@ Business Analytics & AI student at UTD | Aspiring data analyst / data scientist 
 
 - **Email:** ahadmehdi3@gmail.com
 - **LinkedIn:** [www.linkedin.com/in/ahad-mehdi](https://www.linkedin.com/in/ahad-mehdi)
+- **Portfolio:** https://ahad-mehdi-portfolio.vercel.app/ 
 
 ## About Me
 
