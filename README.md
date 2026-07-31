@@ -51,10 +51,6 @@ Some of the roles I've held:
 
 I'm largely self-taught: I picked up the fundamentals of Python and SQL through Coursera and other online platforms, and I'm currently teaching myself data visualization tools while continuing to sharpen my Excel, Python, and SQL skills.
 
-## Resume
-
-My full resume is available as a PDF: [**Ahad_Mehdi_Resume.pdf**](url).
-
 ## Careers I'm Considering
 
 Anything in AI or data — I'm especially drawn to becoming a data analyst / data scientist. After graduating from UTD, I want to enter the workforce and gain experience before going back to school for a master's.
